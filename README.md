@@ -3,4 +3,6 @@
 
 
   Open 1
-  Open 2 to change the commit changes name
+ 
+ 
+    Open 2 to change the commit changes name
