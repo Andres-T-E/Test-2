@@ -7,9 +7,9 @@
  
   Open 2 
   
-  *to change the commit changes name*
+  *to change the "commit changes" name*
 
 
   Open 3
   
-    *to see the number of commits
+    *to see the number of commits*
